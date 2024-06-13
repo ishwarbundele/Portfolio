@@ -1,11 +1,11 @@
 # My Portfolio
 This is my digital portfolio.
 This project was built using HTML,CSS,Javascript. This is a working responsive website hosted on Github. This website tells about my information and my works.
-https://yayady1999.github.io/portfolio.in/
+https://ishwarbundele.github.io/Portfolio/
 
 
 ## HOW TO ACCESS
- - Click on the link to open the webiste  https://yayady1999.github.io/portfolio.in/ 
+ - Click on the link to open the webiste  https://ishwarbundele.github.io/Portfolio/
 - Once it opens , check it see my digital portfolio.
 - It tells all my basic professional information.
 - Have Fun
