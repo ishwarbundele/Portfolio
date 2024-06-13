@@ -1,11 +1,11 @@
 # My Portfolio
 This is my digital portfolio.
 This project was built using HTML,CSS,Javascript. This is a working responsive website hosted on Github. This website tells about my information and my works.
-https://ishwarbundele.github.io/Portfolio/
+https://ishwarbundele/Portfolio/
 
 
 ## HOW TO ACCESS
- - Click on the link to open the webiste  https://ishwarbundele.github.io/Portfolio/
+ - Click on the link to open the webiste  https://ishwarbundele/Portfolio/
 - Once it opens , check it see my digital portfolio.
 - It tells all my basic professional information.
 - Have Fun
