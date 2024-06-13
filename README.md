@@ -5,7 +5,7 @@ https://ishwarbundele.github.io/Portfolio.io/
 
 
 ## HOW TO ACCESS
- - Click on the link to open the webiste  
+ - Click on the link to open the webiste https://ishwarbundele.github.io/Portfolio.io/
 - Once it opens , check it see my digital portfolio.
 - It tells all my basic professional information.
 - Have Fun
